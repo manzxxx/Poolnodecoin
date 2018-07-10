@@ -1,0 +1,2 @@
+# Poolnodecoin
+poolnode
